@@ -31,7 +31,7 @@ This repository contains a simple HTML and CSS clone of the Flipkart e-commerce 
 
 To run this project locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/flipkart-clone.git`
+1. Clone this repository:[ "https://github.com/ashfaq9/commerce-website"]
 2. Navigate to the project directory: `cd flipkart-clone`
 3. Open the `index.html` file in your preferred web browser.
 
@@ -46,5 +46,4 @@ For any questions, feedback, or discussions related to this project, feel free t
 
 - Your Name :Mahammed Hasbak
 - Your Email :asbaq0@gmail.com
-- Project Link: [GitHub Repository](https://github.com/your-username/flipkart-clone)
-
+- Project Link: [GitHub Repository](https://github.com/ashfaq9/commerce-website.)
